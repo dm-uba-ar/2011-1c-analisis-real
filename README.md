@@ -1,9 +1,4 @@
-# Análisis Real - Medida y Probabilidad — Primer cuatrimestre de 2011
-
-## Equipo docente
-
-- **Clases teóricas:** María Elena Becker
-- **Clases prácticas:** Marcelo Valdettaro, Maximiliano Camporino
+# Análisis Real — Primer cuatrimestre de 2011
 
 ## Prácticas
 
